@@ -20,7 +20,7 @@
 ## 🌟 Overview
 
 **Furniro** is a full-featured, responsive online furniture marketplace built with the
-MERN stack (MongoDB, Express, React, Node.js). The platform delivers a seamless shopping experience with modern design, 
+MEAN stack (MongoDB, Express, Angular, Node.js). The platform delivers a seamless shopping experience with modern design, 
 robust authentication, and comprehensive e-commerce functionality for both customers and administrators.
 
 
