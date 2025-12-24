@@ -75,7 +75,7 @@ robust authentication, and comprehensive e-commerce functionality for both custo
 ### Home Page
 <img width="1877" height="976" alt="screenshot-homepage" src="https://github.com/user-attachments/assets/f970d9fc-8d4c-457c-b584-12bc22e5a359" />
 
-### Categories section
+### Register Page
 <img width="1920" height="1892" alt="screenshot1" src="https://github.com/user-attachments/assets/7bb8a33d-a948-410e-b3bf-6e12feccb4d8" />
 
 ### Products Page
